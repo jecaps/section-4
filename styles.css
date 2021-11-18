@@ -5,9 +5,14 @@ body {
 
 header {
   text-align: center;
+  padding: 32px;
 }
 
 h1 {
   font-size: 52px;
   color: #028090;
+}
+
+header img {
+  width: 300px;
 }
